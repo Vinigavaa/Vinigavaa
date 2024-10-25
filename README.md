@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey there! Welcome to my GitHub!<br><br>💻 About Me: Sou um desenvolvedor focado em criar aplicações web, com habilidades em JavaScript, Typescript e React no front-end e Java e Spring no back-end. Além disso, tenho experiência em bancos de dados como MySQL e estou sempre aberto a aprender novas tecnologias e padrões de desenvolvimento!<br><br>🌱 Atualmente Aprendendo: Estou me aprofundando em novas funcionalidades do JavaScript, enquanto também aprimoro minhas habilidades em arquiteturas de sistemas.</p>
+<p align="left">👋 Hey there! Welcome to my GitHub!<br><br>💻 About Me: Sou um desenvolvedor focado em criar aplicações web, com habilidades em JavaScript, Typescript e React no front-end e Java e Spring no back-end. Além disso, tenho experiência em bancos de dados como MySQL e estou sempre aberto a aprender novas tecnologias e padrões de desenvolvimento!<br><br>🌱 Atualmente Aprendendo: Estou me aprofundando em novas funcionalidades do JavaScript e Java Spring, enquanto também aprimoro minhas habilidades em arquiteturas de sistemas.</p>
 
 ###
 
