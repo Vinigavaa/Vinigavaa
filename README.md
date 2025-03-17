@@ -1,4 +1,4 @@
-<h2 align="left">About Me - Developer Java - C# - React</h2>
+<h2 align="left">About Me - Developer Java - C# - TypeScript</h2>
 
 ###
 
